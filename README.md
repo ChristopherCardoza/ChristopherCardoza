@@ -21,10 +21,10 @@ I am a second-year computer science student at John Abbott College, passionate a
 
 # 🔭 I’m currently working on
 
-- 🐟 An Aquarium Manager web app with jQuery
+- 🐟 An Aquarium Manager web app with jQuery % SQL
 - 🎮 A C# & WPF turn-based fighting game
 
-## 🌐 Connect with me:
+# 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/christopher-cardoza-0435062a2)
 
 # 💻 Tech Stack:
