@@ -21,7 +21,7 @@ I am a second-year computer science student at John Abbott College, passionate a
 
 # 🔭 I’m currently working on
 
-- 🐟 An Aquarium Manager web app with jQuery % SQL
+- 🐟 An Aquarium Manager web app with jQuery & SQL
 - 🎮 A C# & WPF turn-based fighting game
 
 # 🌐 Connect with me:
