@@ -23,6 +23,10 @@ I am a second-year computer science student at John Abbott College, passionate a
 
 - A Full Stack World Cup Predictor App ⚽
 
+# 🌱 I’m currently learning
+- ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/christopher-cardoza-0435062a2)
 
