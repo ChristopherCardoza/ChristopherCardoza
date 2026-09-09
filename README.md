@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-I am a second-year computer science student at John Abbott College, passionate about software development, problem-solving, and building practical, real-world applications.
+I am a third-year computer science student at John Abbott College, passionate about software development, problem-solving, and building practical, real-world applications.
 
 # 🔭 I’m currently working on
 
