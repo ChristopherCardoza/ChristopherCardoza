@@ -22,10 +22,10 @@ I am a third-year computer science student at John Abbott College, passionate ab
 # 🔭 I’m currently working on
 
 - The UI for my Full Stack World Cup Predictor App ⚽
-<!--
+
 # 🌱 I’m currently learning
-- 
--->
+- Game Programming with JavaScript! 👾🎮
+
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/christopher-cardoza-0435062a2)
 
