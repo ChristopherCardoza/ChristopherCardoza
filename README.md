@@ -28,10 +28,8 @@ I am a third-year computer science student at John Abbott College, passionate ab
 - Coding with AI Agents 🤖
 - Android Apps with Kotlin 📱
 
-<!--
-# 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/christopher-cardoza-0435062a2)
--->
+# 📫 How to reach me: 
+- Check out my live portfolio site! 🧑‍💻
 
 # 💻 Tech Stack:
 Languages: 
